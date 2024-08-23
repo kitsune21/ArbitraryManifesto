@@ -1,0 +1,23 @@
+body {
+    display: block;
+    text-align: -webkit-center;
+}
+
+section {
+    width: 45%;
+}
+
+li {
+    text-align: left;
+    padding: 4px 0;
+}
+
+footer {
+    padding: 10px 0;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
